@@ -1,10 +1,13 @@
-Linear Regression Analysis Project
+#Linear Regression Analysis Project
+
 This repository contains a collection of Jupyter notebooks demonstrating the application of Linear Regression using Python. The projects cover various real-world scenarios, ranging from simple salary predictions to complex multi-feature insurance cost estimations.
 
-Project Structure
+**Project Structure**
+
 The project is divided into three main notebooks, each focusing on a different dataset and regression complexity:
 
-1. Simple Linear Regression (Salary Prediction)
+**1. Simple Linear Regression (Salary Prediction)**
+
 File: linear Regression 1.ipynb
 
 Objective: Predict an employee's salary based on their years of experience.
